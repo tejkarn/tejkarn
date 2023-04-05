@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working/learning flutter
 - 💞️ I’m looking to collaborate on dart , flutter
 - 📫 How to reach me ankit123.1122@gmail.com
 
